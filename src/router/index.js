@@ -1,19 +1,41 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
-import HomeView from '../views/HomeView.vue'
+import PanelView from '../views/PanelView.vue'
+import question from '../components/question.vue'
+import Listaq from '../components/Listaq.vue'
+import Detailq from '../components/Detailq.vue'
 
 const routes = [
   {
-    path: '/',
-    name: 'home',
-    component: HomeView
+    path: '/',    name: 'panel',    component: PanelView
   },
   {
-    path: '/about',
-    name: 'about',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/AboutView.vue')
+    path: '/stars',    name: 'stars',    component: () => import(/* webpackChunkName: "about" */ '../views/StarsView.vue')
+  },
+  {
+    path: '/profile',    name: 'profile',    component: () => import('../views/ProfileView.vue')
+  },
+  {
+    path: '/buy',    name: 'buy',    component: () => import('../views/BuyView.vue')
+  },
+  {
+    path:'/questions/:qId', 
+    name:'questions', 
+    component:()=>import('@/components/questions.vue'),
+    children:[
+      {
+        path:"question",
+        component:question
+      }
+    ]
+  },
+  {
+    path: '/Listaq/:qId',    name: 'Listaq', component:Listaq   
+  },
+  {
+    path: '/Detailq/:qdId',    name: 'Detailq', component:Detailq
+  },
+  {
+    path:"/:catchall(.*)*",name:"notfound", component:() => import('../views/notfoundView.vue')
   }
 ]
 

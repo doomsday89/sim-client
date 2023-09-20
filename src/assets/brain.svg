@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+    width="800px"
+    height="800px"
+    viewBox="0 0 48 48"
+    fill="none"
+    version="1.1"
+    id="svg10"
+    sodipodi:docname="brain-svgrepo-com.svg"
+    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:svg="http://www.w3.org/2000/svg">
+   <defs
+       id="defs14" />
+   <sodipodi:namedview
+       id="namedview12"
+       pagecolor="#ffffff"
+       bordercolor="#666666"
+       borderopacity="1.0"
+       inkscape:showpageshadow="2"
+       inkscape:pageopacity="0.0"
+       inkscape:pagecheckerboard="0"
+       inkscape:deskcolor="#d1d1d1"
+       showgrid="false"
+       inkscape:zoom="1.28375"
+       inkscape:cx="368.06232"
+       inkscape:cy="406.23174"
+       inkscape:window-width="3840"
+       inkscape:window-height="2071"
+       inkscape:window-x="-9"
+       inkscape:window-y="-9"
+       inkscape:window-maximized="1"
+       inkscape:current-layer="svg10" />
+   <circle
+       style="fill:#1ebe8c;fill-opacity:1;stroke:none;stroke-width:0.244882;stroke-linecap:square;stroke-linejoin:round"
+       id="path401"
+       cx="24.280428"
+       cy="23.439142"
+       r="21.80331"
+       inkscape:label="circle" />
+   <rect
+       width="34.726387"
+       height="34.726387"
+       fill="#ffffff"
+       fill-opacity="0.01"
+       id="rect2"
+       x="6.2161636"
+       y="5.6553068"
+       style="stroke-width:0.723466" />
+   <path
+       d="m 19.748071,37.127901 c -0.708925,-2.311909 -1.778426,-4.035423 -3.208502,-5.170542 -2.14515,-1.702678 -5.553524,-0.644464 -6.8125359,-2.400678 -1.2590125,-1.756287 0.8820789,-4.985986 1.6334139,-6.891669 0.751334,-1.905611 -2.8797946,-2.579447 -2.455865,-3.120455 0.2826294,-0.360648 2.11755,-1.401427 5.504812,-3.122264 0.962428,-5.48868 4.517397,-8.2330194 10.664981,-8.2330194 9.22123,0 12.734311,7.8177494 12.734311,12.7900614 0,4.972385 -4.25391,10.329147 -10.313665,11.484161 -0.541876,0.789157 0.239685,2.343959 2.344538,4.664405"
+       stroke="#000000"
+       stroke-width="3.37631"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path4"
+       inkscape:label="head"
+       style="stroke:#fafafa;stroke-width:1.2;stroke-dasharray:none;stroke-opacity:1" />
+   <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 20.878089,13.308452 c -0.472641,1.833408 -0.331999,3.120889 0.421926,3.862225 0.753924,0.741409 2.038873,1.226204 3.854846,1.454457 -0.412015,2.364795 0.09036,3.474231 1.50698,3.328235 1.416692,-0.145995 2.26785,-0.73468 2.553619,-1.765981 2.214025,0.622253 3.413966,0.101502 3.599825,-1.562254 0.278896,-2.49567 -1.066896,-4.486504 -1.618612,-4.486504 -0.551788,0 -1.981213,-0.06714 -1.981213,-0.830178 0,-0.763113 -1.66976,-1.194226 -3.176741,-1.194226 -1.50698,0 -0.600043,-1.01582 -2.669374,-0.61444 -1.379578,0.267538 -2.209972,0.870402 -2.491256,1.808666 z"
+       fill="#2f88ff"
+       stroke="#000000"
+       stroke-width="4"
+       stroke-linejoin="round"
+       id="path6"
+       inkscape:label="brain"
+       style="stroke-width:2.1;stroke-dasharray:none" />
+   <path
+       d="m 28.889629,21.159274 c -0.735693,0.456507 -1.74529,1.21564 -2.170399,1.808666 -1.0627,1.482744 -1.92471,2.385558 -2.113318,3.333805"
+       stroke="#000000"
+       stroke-width="2.89387"
+       stroke-linecap="round"
+       id="path8"
+       style="stroke-width:1.8;stroke-dasharray:none" />
+</svg>

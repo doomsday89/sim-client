@@ -1,0 +1,56 @@
+[
+{"id":1,
+"nombre":"Norma",
+"cuestionario":[
+    {
+        "id":1,
+        "text":"8+8",
+        "options":
+            {
+                "id":1,
+                "text":8,
+                "iscorrect":false
+            }
+        
+    },
+    {
+        "id":2,
+        "text":"80+8",
+        "options":
+            {
+                "id":1,
+                "text":88,
+                "iscorrect":true
+            }
+        
+    }
+    ]
+},
+{"id":2,
+"nombre":"SOFIA",
+"cuestionario":[
+    {
+        "id":1,
+        "text":"8+8",
+        "options":
+            {
+                "id":1,
+                "text":8,
+                "iscorrect":true
+            }
+        
+    },
+    {
+        "id":2,
+        "text":"80+8",
+        "options":
+            {
+                "id":1,
+                "text":88,
+                "iscorrect":false
+            }
+        
+    }
+    ]
+}
+]

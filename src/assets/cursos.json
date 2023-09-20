@@ -1,0 +1,42 @@
+[
+    {
+        "idUser":1,
+        "id":1,
+        "nombre":"matemáticas",
+        "descripcion":"100 problemas ",
+        "img": "https://marvel-b1-cdn.bc0a.com/f00000000026007/resilienteducator.com/wp-content/uploads/2012/11/AdobeStock_60467600_cup.jpg",
+        "comprado":true
+    },
+    {
+        "idUser":1,
+        "id":2,
+        "nombre":"Biologia",
+        "descripcion":"100 reactivos",
+        "img": "https://blogs.biomedcentral.com/on-biology/wp-content/uploads/sites/5/2017/12/DNA.png",
+        "comprado":true
+    },
+    {
+        "idUser":1,
+        "id":3,
+        "nombre":"Química",
+        "descripcion":"100 reactivos",
+        "img": "https://blogs.biomedcentral.com/on-biology/wp-content/uploads/sites/5/2017/12/DNA.png",
+        "comprado":true
+    },
+    {
+        "idUser":1,
+        "id":4,
+        "nombre":"español",
+        "descripcion":"120 reactivos",
+        "img": "https://images.pexels.com/photos/5408920/pexels-photo-5408920.jpeg?cs=srgb&dl=pexels-leeloo-thefirst-5408920.jpg&fm=jpg",
+        "comprado":false
+    },
+    
+    {
+        "id":6,
+        "nombre":"Historia",
+        "descripcion":"150 reactivos",
+        "img": "https://images.pexels.com/photos/3290068/pexels-photo-3290068.jpeg?cs=srgb&dl=pexels-alex-azabache-3290068.jpg&fm=jpg",
+        "comprado":false
+    }
+]
